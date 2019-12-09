@@ -1,0 +1,115 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: 'Sulphur Point', sans-serif;
+    color: ghostwhite;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Sulphur Point', sans-serif;
+    color: ghostwhite;
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    font-family: 'Sulphur Point', sans-serif;
+    color: ghostwhite;
+    width: 100%;
+    margin-top: 2%;
+    line-height: 40px;
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+}
+
+.navbar{
+    background-color: ghostwhite;
+    text-align: center;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    letter-spacing: 1px;
+    display: block;
+    padding: 0 25px;
+    font-size: 25px;
+    position: relative;
+    z-index: 1;
+    font-family: 'Sulphur Point', sans-serif;
+}
+
+.navbar ul li a:hover{
+    background-color: black;
+    color: ghostwhite;
+}
+
+.siteone{
+    align-content: center;
+    text-align: center;
+    width:100%;
+    position: relative;
+    margin-top: 15%;
+    display: block;
+}
+
+.animal{
+    width: 50%;
+    height: auto;
+    align-content: center;
+    position: relative;
+}
+
+.sitetwo{
+        align-content: center;
+    text-align: center;
+    width:100%;
+    position: relative;
+    margin-top: 15%;
+}
+
+.sitethree{
+     align-content: center;
+    text-align: center;
+    width:100%;
+    position: relative;
+    margin-top: 15%;
+}
+
+.williams{
+        width: 50%;
+    height: auto;
+    align-content: center;
+    position: relative;
+}
+
+.netflix{
+      width: 50%;
+    height: auto;
+    align-content: center;
+    position: relative;
+}
+
+.text{
+    bottom: 30px;
+    position: relative;
+    text-align: center;
+}
+
+footer{
+    background-color:ghostwhite;
+    font-family: 'Sulphur Point', sans-serif;
+    text-align: center;
+    margin-top: 10%;
+}
